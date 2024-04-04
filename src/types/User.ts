@@ -1,0 +1,1 @@
+export type UserRequestType = "ANONYMOUS" | "USER_MBANK" 
